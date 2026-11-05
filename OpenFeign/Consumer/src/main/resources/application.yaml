@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Consumer
+
+server:
+  port: 8082
